@@ -1,4 +1,4 @@
-# Chatboy
+# Chatbot
 
 ## Project Overview
 Chatboy is a Python-based chatbot developed as part of my internship project. It can interact with users, answer basic questions, and provide a simple conversational experience.
@@ -20,7 +20,7 @@ Chatboy is a Python-based chatbot developed as part of my internship project. It
 2. Open the project folder in VS Code.
 3. Run the chatbot using:
    ```
-   python chatboy.py
+   python chatbot.py
    ```
 4. Start chatting with the bot.
 
